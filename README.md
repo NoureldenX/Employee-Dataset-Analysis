@@ -53,8 +53,8 @@ The goal is to understand trends and patterns in the dataset, focusing on:
 ---
 
 ## 📎 Files
-- `Copy_of_Untitled31.ipynb` → Jupyter Notebook with full analysis.  
-- `Employee.csv` → Dataset used for analysis.  
+- Copy_of_Untitled31.ipynb → Jupyter Notebook with full analysis.  
+- Employee.csv → Dataset used for analysis.  
 
 ---
 
