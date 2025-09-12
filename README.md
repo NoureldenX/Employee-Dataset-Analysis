@@ -18,8 +18,8 @@ The analysis involves **data cleaning, exploratory data analysis (EDA), and visu
 
 ## 📂 Dataset  
 - **Files:**  
-  - [Employee.csv](Data science project/Copy_of_Untitled31 (1).ipynb)  
-  - [AnotherFile.csv](Data science project/Employee.csv)  
+  - [Employee.csv](./data/Employee.csv)  
+  - [AnotherFile.csv](./data/AnotherFile.csv)  
 
 | Feature                   | Description                              |
 |----------------------------|------------------------------------------|
