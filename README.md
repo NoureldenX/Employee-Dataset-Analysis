@@ -18,8 +18,8 @@ The analysis involves **data cleaning, exploratory data analysis (EDA), and visu
 
 ## 📂 Dataset  
 - **Files:**  
-  - [Employee.csv](<put-your-link-here>)  
-  - [AnotherFile.csv](<put-your-link-here>)  
+  - [Employee.csv](Data science project/Copy_of_Untitled31 (1).ipynb)  
+  - [AnotherFile.csv](Data science project/Employee.csv)  
 
 | Feature                   | Description                              |
 |----------------------------|------------------------------------------|
@@ -59,9 +59,27 @@ The analysis involves **data cleaning, exploratory data analysis (EDA), and visu
 ## 📸 Screenshots  
 (Add your analysis plots and charts here)  
 
-- ![Screenshot 1](<screenshot-link>)  
-- ![Screenshot 2](<screenshot-link>)  
-- ![Screenshot 3](<screenshot-link>)  
+- <img width="1004" height="757" alt="image" src="https://github.com/user-attachments/assets/8c06a5fc-92cf-4ecd-9590-4f173a8522a6" />
+
+-<img width="1006" height="744" alt="image" src="https://github.com/user-attachments/assets/6a226e49-964a-44e0-8789-0eb3205768ac" />
+
+- <img width="987" height="639" alt="image" src="https://github.com/user-attachments/assets/3eb054fb-850d-4c6c-bb55-8c15399e57db" />
+
+- <img width="988" height="834" alt="image" src="https://github.com/user-attachments/assets/286f6d82-edb2-49e3-b859-ccf1824bc839" />
+
+- <img width="1001" height="677" alt="image" src="https://github.com/user-attachments/assets/eebc1e50-92f9-4301-86b1-bbb7d317a283" />
+
+-<img width="989" height="722" alt="image" src="https://github.com/user-attachments/assets/3442ed5e-799b-4ce8-afb7-dd7d330cd672" />
+ 
+- <img width="953" height="117" alt="image" src="https://github.com/user-attachments/assets/37085cfe-a02b-4ea5-a16a-e676c0a20db7" />
+
+- <img width="1008" height="766" alt="image" src="https://github.com/user-attachments/assets/50af741b-6671-4287-84cd-9ba93da6016e" />
+
+-<img width="1003" height="652" alt="image" src="https://github.com/user-attachments/assets/31ab8eb5-7b22-48f2-b053-010f3b2b4e6c" />
+
+-<img width="1006" height="731" alt="image" src="https://github.com/user-attachments/assets/4369f20a-551f-481a-afd4-ff5d94d07c84" />
+
+-<img width="994" height="586" alt="image" src="https://github.com/user-attachments/assets/8ad7769e-3ab5-47fc-852c-fd33f0eae0ae" />
 
 ---
 
