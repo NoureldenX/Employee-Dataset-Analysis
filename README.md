@@ -53,10 +53,7 @@ The goal is to understand trends and patterns in the dataset, focusing on:
 ---
 
 ## 📎 Files
--           → Jupyter Notebook with full analysis.
-- Data science project 
--           → Dataset used for analysis.  
-
+-     Data science project 
 ---
 
 ## 🚀 How to Run
