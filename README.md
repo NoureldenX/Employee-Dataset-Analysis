@@ -18,8 +18,8 @@ The analysis involves **data cleaning, exploratory data analysis (EDA), and visu
 
 ## 📂 Dataset  
 - **Files:**  
-  - [Employee.csv](https://github.com/NoureldenX/Employee-Dataset-Analysis/tree/main/Data%20science%20project)  
-  - [AnotherFile.csv](./data/AnotherFile.csv)  
+  - [All](https://github.com/NoureldenX/Employee-Dataset-Analysis/tree/main/Data%20science%20project)  
+  -  
 
 | Feature                   | Description                              |
 |----------------------------|------------------------------------------|
