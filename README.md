@@ -53,8 +53,7 @@ The goal is to understand trends and patterns in the dataset, focusing on:
 ---
 
 ## 📎 Files
--    Employee-Dataset-Analysis
-/Data science project/
+-    Copy_of_Untitled31 (1).ipynb
 ---
 
 ## 🚀 How to Run
